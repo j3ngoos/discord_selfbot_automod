@@ -1,0 +1,2 @@
+# discord_selfbot_automod
+discord_selfbot_automod
